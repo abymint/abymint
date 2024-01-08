@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E64FE,100:4cebff&text=Welcome&height=250&fontColor=ffffff&fontSize=70&fontAlign=28&fontAlignY=31&desc=Code%20archive%20of%20SemriMint&descAlign=33&descAlignY=50&descSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E64FE,100:4cebff&text=Welcome&height=250&fontColor=ffffff&fontSize=70&fontAlign=28&fontAlignY=30&desc=Code%20archive%20of%20SemriMint&descAlign=35&descAlignY=50&descSize=35)
 ## 인사말
 안녕하세요? 개인 포토폴리오 및 코드 저장소를 쓰는 공간입니다.
 
