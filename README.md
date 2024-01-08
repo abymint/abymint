@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/Visual studio code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
 
 ## Stats & Most Language
-![Abymint's GitHub stats](https://github-readme-stats.vercel.app/api?username=abymint&show_icons=true&theme=graywhite)
+![Abymint's GitHub stats](https://github-readme-stats.vercel.app/api?username=semrimint&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abymint&layout=compact)](https://github.com/abymint/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semrimint&layout=compact)](https://github.com/abymint/github-readme-stats)
