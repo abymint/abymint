@@ -1,11 +1,11 @@
 ## Skills
-### Can Use (주 언어)
+### Can Use
 
 
-### Studying (배우는 중)
+### Studying
 
 
-### program & toolkit (프로그램 & 도구)
+### program & toolkit
 <img src="https://img.shields.io/badge/Visual studio code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Intellij IDAE-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
 ## Stats & Most Language
